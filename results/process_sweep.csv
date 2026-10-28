@@ -1,0 +1,5 @@
+processes,throughput_kbps,busy_fraction,avg_transmissions,avg_latency_ms,residual_bler
+1,96.25,0.125,1.2987013,3.3896104,0
+2,188.5,0.25,1.3262599,3.6100796,0
+4,380.5,0.5,1.3134034,3.5072273,0
+8,758.25,1,1.3181668,3.5453347,0
